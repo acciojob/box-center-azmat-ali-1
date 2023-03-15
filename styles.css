@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+ div{
+            border: 2px black;
+            border-style: solid;
+            background-color: lightblue;
+            width: 200x;
+            height: 200;
+      
+            padding: 50px;
+            margin-top: 150px;
+            margin-right: 330px;
+            margin-bottom: 100px;
+            margin-left: 330px;
+        }
+p{
+	color : blueviolet;
+}
